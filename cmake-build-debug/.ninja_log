@@ -1,0 +1,14 @@
+# ninja log v5
+5	8758	6849858824794143	CMakeFiles/currency_simulator_tycoon.dir/main.cpp.obj	ce145fc552be5f43
+8758	17592	6849858913261352	currency_simulator_tycoon.exe	62ac25b6c0d3eee9
+2	173	6849859991772229	build.ninja	727a38720fb91c92
+3	8733	6849860079211346	CMakeFiles/currency_simulator_tycoon.dir/main.cpp.obj	ce145fc552be5f43
+8734	17464	6849860166596986	currency_simulator_tycoon.exe	62ac25b6c0d3eee9
+3	9001	6849860708473522	CMakeFiles/currency_simulator_tycoon.dir/main.cpp.obj	ce145fc552be5f43
+9001	17634	6849860794942156	currency_simulator_tycoon.exe	62ac25b6c0d3eee9
+4	9739	6849861808604782	CMakeFiles/currency_simulator_tycoon.dir/main.cpp.obj	ce145fc552be5f43
+9740	18755	6849861898889370	currency_simulator_tycoon.exe	62ac25b6c0d3eee9
+4	8739	6849863012249560	CMakeFiles/currency_simulator_tycoon.dir/main.cpp.obj	ce145fc552be5f43
+8740	17536	6849863100355127	currency_simulator_tycoon.exe	62ac25b6c0d3eee9
+3	9297	6849863514311397	CMakeFiles/currency_simulator_tycoon.dir/main.cpp.obj	ce145fc552be5f43
+9297	19623	6849863617746774	currency_simulator_tycoon.exe	62ac25b6c0d3eee9
