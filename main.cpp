@@ -59,5 +59,6 @@ int main() {
     // print the output rounded to 2 decimals
     cout << fixed << setprecision(2) << "Total in CAD: $" << total << endl;
 
+
     return 0;
 }
